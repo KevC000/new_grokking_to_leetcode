@@ -38,13 +38,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
 
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
-- [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
+- [x] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
-- [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 ## Merge Intervals
 
